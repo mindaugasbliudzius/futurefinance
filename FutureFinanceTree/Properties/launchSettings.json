@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FutureFinanceTree": {
+      "commandName": "Project",
+      "commandLineArgs": "tree.txt"
+    }
+  }
+}
